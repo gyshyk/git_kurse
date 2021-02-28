@@ -1,0 +1,1 @@
+document.body.innerHTML = 'Salam aytyarys JS komegi bilen!!!'
